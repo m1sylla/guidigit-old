@@ -1,0 +1,87 @@
+html,
+body {
+    overflow-x: hidden;
+}
+
+header,
+footer {
+    background-color: #24009c;
+}
+
+.icons-bg-home {
+    z-index: -100;
+}
+
+.font-normal-size {
+    font-size: 1.2em;
+}
+
+.title-color {
+    color: #160452;
+}
+
+.lighting-bg {
+    background-color: #F5F5F6;
+}
+
+
+/* contact us **/
+
+.contact-us-img {
+    background: #F5F5F6 url("/assets/images/guidigit-contact-us.png") top center/cover no-repeat fixed;
+    height: 200px;
+}
+
+
+/* end contact us  **/
+
+
+/*social icons as bg **/
+
+.icon-bg-facebook {
+    top: 5%;
+    left: 5%;
+}
+
+.icon-bg-heart {
+    top: 45%;
+    left: 14%;
+}
+
+.icon-bg-instagram {
+    top: 15%;
+    right: 40%;
+}
+
+.icon-bg-combo-chart {
+    bottom: 44%;
+    right: 15%;
+}
+
+.icon-bg-linkedin {
+    top: 8%;
+    right: 5%;
+}
+
+.icon-bg-pinterest {
+    bottom: 5%;
+    left: 7%;
+}
+
+.icon-bg-twitter {
+    bottom: 5%;
+    right: 5%;
+}
+
+.icon-bg-thumbs-up {
+    bottom: 20%;
+    right: 35%;
+}
+
+.icon-bg-snapchat-ghost {
+    top: 50%;
+    left: 43%;
+}
+
+
+/*  end  social icons as bg **/
